@@ -37,8 +37,8 @@ The dataset (`ExtraaLearn.csv`) contains 4,612 records and 15 features:
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/your-repo/extraalearn-project.git
-   cd extraalearn-project
+   git clone https://github.com/RashaAbuRkab/Potential-Customers-Prediction
+   cd Potential-Customers-Prediction
    ```
 2. Create a virtual environment (recommended):
    ```
@@ -107,7 +107,6 @@ The dataset (`ExtraaLearn.csv`) contains 4,612 records and 15 features:
 ## Project Structure
 ```
 extraalearn-project/
-├── ExtraaLearn.csv                     # Dataset
 ├── Rasha_Abu_Rkab- Full Code Version - Potential Customers Prediction.ipynb  # Jupyter Notebook
 ├── README.md                           # Project documentation
 ├── requirements.txt                    # Python dependencies
